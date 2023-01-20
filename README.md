@@ -1,4 +1,6 @@
-### Hi there 👋
+### MY INTRO
+
+Bioinformatician working on exciting Data Science projects 
 
 <!--
 **LolloPero/LolloPero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
