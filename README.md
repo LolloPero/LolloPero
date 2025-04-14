@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/LolloPero/LolloPero/blob/main/Lorenzo_Data_Science.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/LolloPero/LolloPero/blob/main/images/cover_picture.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 ### <div align="center">I'm Lorenzo, a Data Engineer 👨‍💻 eager to learn more on Data Engineering 🚀</div>  
 
