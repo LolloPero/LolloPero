@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ### <div align="center">I'm Lorenzo, a Data Engineer 👨‍💻 eager to learn more on Data Engineering 🚀</div>  
 
-- 🔭 I’m currently working on   
+- 🔭 I’m currently working on Github-activities-visualization project!
   
 
-- ❓ Ask me about anything related to RNA-Seq processing  
+- ❓ Ask me about anything related to **ETL**, **Cloud platforms**
   
 
 <br/>  
